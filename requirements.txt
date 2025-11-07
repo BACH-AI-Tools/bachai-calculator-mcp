@@ -1,0 +1,3 @@
+# Calculator MCP has no external dependencies
+# All functionality uses Python standard library
+
